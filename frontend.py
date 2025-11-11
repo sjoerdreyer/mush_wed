@@ -28,3 +28,5 @@ if st.button("Predict"):
         st.success(f"The mushroom is predicted to be: {prediction}")
     else:
         st.error("Error in prediction. Please try again.")
+
+#change
